@@ -1,0 +1,13 @@
+{
+    "name": "subway-runner",
+    "version": "1.0.0",
+    "description": "Professional Gamer Grade Subway Runner",
+    "main": "index.html",
+    "scripts": {
+        "dev": "npx -y live-server . --port=3000 --no-browser",
+        "start": "npx -y live-server . --port=3000"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
