@@ -1,52 +1,50 @@
-# Subway Runner 🛹🚄
+# 🛹 Subway Runner: Try Not To Rage Quit Edition 😂
 
-A high-speed, adrenaline-pumping 3D endless runner web game built with vanilla JavaScript, Three.js, and Tailwind CSS. 
+Welcome to **Subway Runner**, the 3D endless runner where your reflexes go to die. Built with vanilla JavaScript, Three.js, and enough Tailwind CSS to make it look unreasonably good for how fast you're about to crash.
 
-Survive the extreme speeds, dodge the traffic, surf on top of moving trains, and collect premium neon-infused power-ups as you outrun the chaser! 
+You think you're good at video games? Prove it. We cranked the speed dial past 11 and broke the knob off at a casual **80 units/sec**. Good luck outrunning the cops at that speed. 
 
-## ✨ Features
+## ✨ Why You Will Suffer (Features)
 
-- **Extreme Speed Calibration**: The game accelerates quickly, reaching an insane maximum speed of 80 units/sec, demanding lightning-fast reflexes.
-- **Dynamic Obstacle Spawning**: Experience lethal density at high speeds with complex patterns including ramp-to-train transitions, staggered trains, and triple-car barricades.
-- **Premium Reward Visuals**: 
-  - 🧲 **Neon Magnet**: Attracts coins with glowing cyan electric tips.
-  - 🚀 **Industrial Jetpack**: Soar above the obstacles with animated neon exhausts.
-  - 🛡️ **Tech-Shield**: A translucent high-tech energy sphere.
-  - ⚡ **Hoverboard**: Deploy a sleek black hoverboard with underside thrusters during a speed boost.
-- **Immersive Audio Engine**: Centralized BGM and SFX for coin collection, jumps, crashes, and power-ups.
-- **Neon-Infused Aesthetics**: Emissive materials on coins, ramps, and power-ups for a vibrant, modern look.
-- **Missions & Unlockable Characters**: Complete daily objectives to earn coins and unlock a roster of diverse characters (Ninja, Robot, Alien, Zombie, Wizard).
-- **Responsive Controls**: Optimized for both keyboard and mobile touch swipe gestures.
+- **Insane Speed:** You start fast and then it just gets stupid. You *will* crash into a double-stacked train because your brain won't process it in time.
+- **Lethal Spawns:** Ramp-to-train jumps? Yeah. Triple car barricades? Oh absolutely. The game actively wants you to lose.
+- **Premium Bling (Because losing should look good):**
+  - 🧲 **The Neon Magnet:** Glows electric cyan and steals money. Just like my ex.
+  - 🚀 **Industrial Jetpack:** Literal fire. Soar over the chaos like an absolute boss. 
+  - 🛡️ **Tech-Shield:** A glowing sci-fi bubble of invincibility until you inevitably ruin it.
+  - ⚡ **The Hoverboard:** Why run when you can *skate*? Pick up the speed boost, drop a neon-thruster hoverboard under your feet, and ride the lightning.
+- **Immaculate Vibes:** Emissive neon colors, pumping background music, and sound effects that make picking up a coin feel like a pure dopamine injection.
+- **Unlockable Squad:** Grind coins to unlock the Ninja, Robot, Alien, Zombie, or Wizard. No microtransactions here, just pure sweat and tears.
 
-## 🎮 Controls
+## 🎮 How to Not Die (Immediately)
 
-### Keyboard
-- **A / D** or **Left / Right Arrows**: Change lanes
-- **W / Up Arrow / Space**: Jump
-- **S / Down Arrow**: Slide
+**Keyboard Warriors:**
+- **A / D** or **Arrows (↔️)**: Dodge left/right. 
+- **W / Up Arrow / Space**: Jump. Pretend you have wings.
+- **S / Down Arrow**: Slide right under that sign you didn't see coming.
 
-### Touch (Mobile)
-- **Swipe Left / Right**: Change lanes
-- **Swipe Up**: Jump
-- **Swipe Down**: Slide
+**Mobile Masters (Touch):**
+- **Swipe Left / Right**: Lane change. 
+- **Swipe Up**: Jump.
+- **Swipe Down**: Slide for your life.
 
-## 🚀 How to Run Locally
+## 🚀 How to Run Locally 
 
-You can run this game using any local web server. If you have Node.js installed, the easiest way is with `serve` or `live-server`:
+Want to run this on your own machine and flex on your friends? Since it uses fancy ES Modules, opening the HTML file directly won't work (thanks, CORS). Do this instead:
 
-1. Clone the repository:
+1. Clone the repo (and try not to break it):
    ```bash
    git clone https://github.com/Garud2009/Subway-Runner.git
    ```
-2. Navigate to the directory:
+2. Get inside:
    ```bash
    cd Subway-Runner
    ```
-3. Run a local development server:
+3. Boot up a local server. If you have Node.js, slap this into your terminal:
    ```bash
    npx serve .
    ```
-   *Note: Because the game uses ES Modules (`type="module"`), opening `index.html` directly in a browser via the `file://` protocol will not work due to CORS restrictions.*
+4. Open the link it gives you and pray to the gaming gods.
 
 ## 📄 License
-This game is open-source and available under the standard **[MIT License](LICENSE)**.
+This game is under the **[MIT License](LICENSE)**. That means you can use this code, make it even harder, and publish it freely without legally getting yelled at. Do your worst!
