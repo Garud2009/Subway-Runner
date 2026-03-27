@@ -1753,8 +1753,7 @@
     }
     function resetCombo() { state.comboMult = 1; state.chainCoins = 0; }
 
-    // ─── Mission Progress Updater ─────────────────────────────────────────────
-    // Bug fix #7: mission progress was never tracked — now updated on game end
+    // Mission progress updater
     function updateMissionProgress() {
       let anyCompleted = false;
       state.missions.forEach(m => {
