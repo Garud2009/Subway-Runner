@@ -8,6 +8,6 @@
         "start": "npx -y live-server . --port=3000"
     },
     "keywords": [],
-    "author": "Mohit",
+    "author": "Garud Singh",
     "license": "MIT"
 }
