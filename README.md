@@ -47,4 +47,4 @@ Want to run this on your own machine and flex on your friends? Since it uses fan
 4. Open the link it gives you and pray to the gaming gods.
 
 ## 📄 License
-This game is under the **[MIT License](LICENSE)**. That means you can use this code, make it even harder, and publish it freely without legally getting yelled at. Do your worst!
+This game is under the **[MIT License](LICENSE)**. That means you can use this code, make it even harder, and publish it freely without legally getting yelled at. Do your worst😁😁!
